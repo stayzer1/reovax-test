@@ -1,0 +1,24 @@
+.service {
+}
+.service-line {
+  background: #f95707;
+  height: 2px;
+  width: 100%;
+}
+.service--wrapper {
+  padding-top: 42px;
+  padding-bottom: 42px;
+  display: flex;
+  justify-content: space-between;
+}
+.service__title {
+  font-weight: 600;
+  font-size: 42px;
+  color: #1f1f1f;
+}
+.service__text {
+  max-width: 746px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #1f1f1f;
+}
